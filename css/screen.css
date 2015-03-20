@@ -101,18 +101,16 @@ textarea {
 body {
 	background: #112333;
 	color: #eeeeee;
+	align-items:center; 
+	display:flex;
+	justify-content:center;
 }
 
 h1 {
+	display: flex;
 	font-family: "inconsolata",sans-serif;
 	font-size: 3em;
-	text-align: center;
-	padding-top: 15%;
 }
-
-
-
-
 
 
 
