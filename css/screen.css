@@ -101,13 +101,22 @@ textarea {
 body {
 	background: #112333;
 	color: #eeeeee;
+}
+
+section {
 	align-items:center; 
 	display:flex;
 	justify-content:center;
+	width: 100%;
+	height: 100%;
+}
+
+header {
+	display: flex;
 }
 
 h1 {
-	display: flex;
+
 	font-family: "inconsolata",sans-serif;
 	font-size: 3em;
 }
